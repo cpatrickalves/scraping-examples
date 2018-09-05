@@ -1,0 +1,944 @@
+name,neighborhood,address,phone,reviews
+Little Baobab,Mission,3380 19th St,(415) 643-3558,544
+The House,North Beach/Telegraph Hill,1230 Grant Ave,(415) 986-8612,4354
+Fog Harbor Fish House,Fisherman's Wharf,Pier 39,(415) 421-2442,4517
+Gary Danko,Russian Hill,800 N Point St,(415) 749-2060,4874
+Marlowe,Mission Bay,500 Brannan St,(415) 777-1413,2485
+Frances,Castro,3870 17th St,(415) 621-3870,1416
+Loló,Mission,974 Valencia St,(415) 643-5656,1868
+Ushi Taro,Inner Sunset,1382 9th Ave,(415) 702-6014,39
+Brenda’s French Soul Food,Tenderloin,652 Polk St,(415) 345-8100,9545
+What The Cluck SF,The Haight,1782 Haight St,(415) 702-6777,53
+Creator,SoMa,680 Folsom St,(806) 680-3657,64
+Yo También Cantina,Inner Sunset,205 Hugo St,(628) 219-7622,15
+Hops & Hominy,Union Square,1 Tillman Pl,(415) 373-6341,1879
+Nopa,Alamo Square,560 Divisadero St,(415) 864-8643,4744
+Van Ness Cafe & Gyros,Tenderloin,826 Van Ness Ave,(415) 589-7900,29
+Foreign Cinema,Mission,2534 Mission St,(415) 648-7600,4464
+Kokkari Estiatorio,Financial District,200 Jackson St,(415) 981-0983,4118
+Tacorea,Lower Nob Hill,809 Bush St,(415) 885-1325,1216
+Tropisueño,SoMa,75 Yerba Buena Ln,(415) 243-0299,3874
+Hogwash,Union Square,582 Sutter St,(415) 361-5500,897
+The Front Porch,Bernal Heights,65 29th St,(415) 695-7800,2546
+Scoma’s Restaurant,Fisherman's Wharf,1965 Al Scoma Way,(415) 771-4383,3197
+HRD,South Beach,521A 3rd St,(415) 473-4625,2343
+Farmhouse Kitchen Thai Cuisine,Mission,710 Florida St,(415) 814-2920,1417
+Wayfare Tavern,Financial District,558 Sacramento St,(415) 772-9060,3582
+Kitchen Story,Castro,3499 16th St,(415) 525-4905,2618
+The Codmother Fish and Chips,Fisherman's Wharf,496 Beach St,(415) 606-9349,2673
+Sotto Mare Oysteria & Seafood,North Beach/Telegraph Hill,552 Green St,(415) 398-3181,3172
+Zazie,Cole Valley,941 Cole St,(415) 564-5332,4000
+Hi-Way Burger & Fry,Noe Valley,3853 24th St,(415) 641-6000,66
+Straw,Hayes Valley,203 Octavia Blvd,(415) 431-3663,1646
+Stones Throw,Russian Hill,1896 Hyde St,(415) 796-2901,837
+Coqueta,Embarcadero,The Embarcadero,(415) 704-8866,1774
+State Bird Provisions,Western Addition,1529 Fillmore St,(415) 795-1272,2453
+La Fusión,Financial District,475 Pine St,(415) 781-0894,1061
+Barbacco,Financial District,220 California St,(415) 955-1919,1506
+Causwells,Marina/Cow Hollow,2346 Chestnut St,(415) 447-6081,618
+Liholiho Yacht Club,Lower Nob Hill,871 Sutter St,(415) 440-5446,1857
+Cha Cha Cha,The Haight,1801 Haight St,(415) 386-7670,3064
+Hakkasan,Union Square,1 Kearny St,(415) 829-8148,1537
+Prospect,SoMa,300 Spear St,(415) 247-7770,1478
+Zero Zero,SoMa,826 Folsom St,(415) 348-8800,3005
+Sumo,Inner Sunset,420 Judah St,(415) 481-5007,49
+Kitchen Istanbul,Inner Richmond,349 Clement St,(415) 753-9479,412
+MAC’D,Russian Hill,2127 Polk St,(415) 795-1026,46
+Lolinda,Mission,2518 Mission St,(415) 550-6970,1718
+La Mar Cebichería Peruana,Embarcadero,Pier 1 1/2 The Embarcadero,(415) 397-8880,3355
+Oren’s Hummus,SoMa,71 3rd St,(415) 915-6736,93
+Delfina,Mission,3621 18th St,(415) 552-4055,1945
+Serpentine,Dogpatch,2495 3rd St,(415) 252-2000,1443
+Akiko’s Restaurant,Financial District,431 Bush St,(415) 397-3218,1719
+Surisan,Fisherman's Wharf,505 Beach St,(415) 771-8449,897
+Blackwood,Marina/Cow Hollow,2150 Chestnut St,(415) 931-9663,1318
+Starbelly,Castro,3583 16th St,(415) 252-7500,1627
+Contigo,Noe Valley,1320 Castro St,(415) 285-0250,808
+Lark,Castro,4068 18th St,(415) 400-4623,225
+Burma Superstar,Inner Richmond,309 Clement St,(415) 387-2147,6207
+Per Diem,Financial District,43 Sutter St,(415) 989-0300,648
+Rich Table,Hayes Valley,199 Gough St,(415) 355-9085,1026
+Boudin Bakery & Cafe,Fisherman's Wharf,160 Jefferson St,(415) 928-1849,2978
+Zuni Café,Hayes Valley,1658 Market St,(415) 552-2522,2550
+Absinthe Brasserie & Bar,Hayes Valley,398 Hayes St,(415) 551-1590,3107
+L’ardoise Bistro,Duboce Triangle,151 Noe St,(415) 437-2600,1188
+NoVY Restaurant,Noe Valley,4000 24th St,(415) 829-8383,341
+House of Prime Rib,Nob Hill,1906 Van Ness Ave,(415) 885-4605,6452
+Farallon,Union Square,450 Post St,(415) 956-6969,1495
+Suppenküche,Hayes Valley,525 Laguna St,(415) 252-9289,2974
+Son’s Addition,Mission,2990 24th St,(415) 500-2817,145
+Tuba Authentic Turkish Restaurant,Mission,1007 Guerrero St,(415) 826-8822,900
+Myriad Gastropub,Mission,2491 Mission St,(415) 525-4335,495
+Rusty’s Southern,Tenderloin,750 Ellis St,(415) 638-6974,767
+Kantine,Hayes Valley,1906 Market St,(415) 735-7123,48
+Kin Khao,Union Square,55 Cyril Magnin St,(415) 362-7456,1581
+Izakaya KOU,Western Addition,1560 Fillmore St,(415) 441-9294,671
+3rd Cousin,Bernal Heights,919 Cortland Ave,(415) 814-3709,184
+Seven Hills,Nob Hill,1550 Hyde St,(415) 775-1550,897
+Nick’s Crispy Tacos,Russian Hill,1500 Broadway,(415) 409-8226,3118
+Sons & Daughters,Union Square,708 Bush St,(415) 391-8311,625
+Chow,Castro,215 Church St,(415) 552-2469,1896
+Farm : Table,Lower Nob Hill,754 Post St,(415) 300-5652,1596
+Padrecito,Cole Valley,901 Cole St,(415) 742-5505,753
+Mangrove Kitchen,Lower Haight,312 Divisadero St,(415) 552-6881,53
+SO,SoMa,1010 Bryant St,(415) 552-7676,1533
+Limón Rotisserie,Mission,1001 S Van Ness Ave,(415) 821-2134,2967
+El Techo,Mission,2516 Mission St,(415) 550-6970,1510
+Eureka Restaurant & Lounge,Castro,4063 18th St,(415) 431-6000,588
+Sauce - Belden,Financial District,56 Belden Pl,(415) 397-8800,607
+Chez Maman East,Potrero Hill,1401 18th St,(415) 655-9542,1919
+Cassava,Outer Richmond,3519 Balboa St,(415) 640-8990,763
+Box Kitchen,SoMa,431 Natoma St,(415) 580-7170,701
+Trestle,Financial District,531 Jackson St,(415) 772-0922,711
+Palm House,Marina/Cow Hollow,2032 Union St,(415) 400-4355,636
+Chapeau,Inner Richmond,126 Clement St,(415) 750-9787,2543
+Sanraku,Lower Nob Hill,704 Sutter St,(415) 771-0803,1472
+RM 212,Financial District,690 Sacramento St,(415) 500-2780,289
+Little Skillet,Mission Bay,360 Ritch St,(415) 777-2777,1884
+Blue Plate,Bernal Heights,3218 Mission St,(415) 282-6777,1320
+Fable,Castro,558 Castro St,(415) 590-2404,416
+Firefly Restaurant,Noe Valley,4288 24th St,(415) 821-7652,1397
+Delicious Dim Sum,Chinatown,752 Jackson St,(415) 781-0721,825
+OzaOza,Japantown,1700 Post St,(415) 674-4400,80
+Nightbird,Hayes Valley,330 Gough St,(415) 829-7565,108
+The Spice Jar,Mission,2500 Bryant St,(415) 829-3668,294
+Dumpling Kitchen,Parkside,1935 Taraval St,(415) 682-8938,1267
+Spruce,Presidio Heights,3640 Sacramento St,(415) 931-5100,1764
+Monsieur Benjamin,Hayes Valley,451 Gough St,(415) 403-2233,809
+Huli Huli Hawaiian Grill,Bayview-Hunters Point,4100 3rd St,(415) 970-1990,232
+San Tung,Inner Sunset,1031 Irving St,(415) 242-0828,6157
+Birdsong,SoMa,1085 Mission St,(415) 369-9161,73
+Cockscomb,Mission Bay,564 4th St,(415) 974-0700,1013
+El Farolito,Mission,2779 Mission St,(415) 824-7877,4457
+La Ciccia,Glen Park,291 30th St,(415) 550-8114,1016
+āina,Potrero Hill,900 22nd St,(415) 814-3815,856
+Tataki,Lower Pacific Heights,2827 California St,(415) 931-1182,1173
+Barcha,Financial District,28 Fremont St,(415) 957-5463,320
+Ichido,SoMa,687 Minna St,(415) 484-2477,79
+Saigon Sandwich,Tenderloin,560 Larkin St,(415) 474-5698,3040
+The Bird,Financial District,115 New Montgomery St,(415) 872-9825,1020
+Pacific Eatery,Russian Hill,977 N Point St,(415) 834-5687,37
+INDO,Castro,4039 18th St,(415) 346-9700,48
+Urban Tavern,Union Square,333 O'Farrell St,(415) 923-4400,157
+Le P’tit Laurent,Glen Park,699 Chenery St,(415) 334-3235,703
+Hillstone,North Beach/Telegraph Hill,1800 Montgomery St,(415) 392-9280,2023
+Chubby Noodle,Marina/Cow Hollow,2205 Lombard St,(415) 655-3335,542
+Barrel Head Brewhouse,NoPa,1785 Fulton St,(415) 416-6989,485
+Benu,Financial District,22 Hawthorne St,(415) 685-4860,956
+Ryoko’s,Lower Nob Hill,619 Taylor St,(415) 775-1028,2643
+Izakaya Sozai,Inner Sunset,1500 Irving St,(415) 742-5122,1967
+Sam Wo Restaurant,Chinatown,713 Clay St,(415) 989-8898,818
+Piccino,Potrero Hill,1001 Minnesota St,(415) 824-4224,1301
+Anchor Oyster Bar,Castro,579 Castro St,(415) 431-3990,1369
+Bluestem Brasserie,Union Square,One Yerba Buena Ln,(415) 547-1111,1553
+Lime Tree Southeast Asian Kitchen,Inner Sunset,450 Irving St,(415) 665-1415,1427
+Grill Spot,Outer Richmond,2311 Clement St,(415) 571-8201,115
+Lupa Trattoria,Noe Valley,4109 24th St,(415) 282-5872,591
+Hard Knox Cafe,Potrero Hill,2526 3rd St,(415) 648-3770,2018
+Mensho Tokyo,Lower Nob Hill,672 Geary St,(415) 800-8345,1568
+Bouche,Union Square,603 Bush St,(415) 956-0396,698
+Hinodeya Ramen Bar,Japantown,1737 Buchanan St,(415) 757-0552,695
+Mac Daddy,Potrero Hill,1453 18th St,(415) 872-6670,423
+Mama’s On Washington Square,North Beach/Telegraph Hill,1701 Stockton St,(415) 362-6421,3911
+Buffalo Theory,Nob Hill,1735 Polk St,(415) 829-8226,229
+District San Francisco,Mission Bay,216 Townsend St,(415) 896-2120,1073
+The Pink Elephant Alibi,Financial District,142 Minna St,(415) 918-5642,922
+Outerlands,Outer Sunset,4001 Judah St,(415) 661-6140,2105
+Buttermilk Southern Kitchen,Mission,2848 23rd St,(415) 341-1031,540
+Beretta,Mission,1199 Valencia St,(415) 695-1199,3291
+Italian Homemade Company,Russian Hill,716 Columbus Ave,(415) 712-8874,1105
+Nojo Ramen Tavern,Hayes Valley,231 Franklin St,(415) 896-4587,549
+Hotbird,Presidio,Off the Grid Presidio Picnic,(510) 917-0484,28
+Tín Vietnamese Cuisine,SoMa,937 Howard St,(415) 882-7188,1116
+Trattoria Contadina,Russian Hill,1800 Mason St,(415) 982-5728,1204
+Sweet Maple,Lower Pacific Heights,2101 Sutter St,(415) 655-9169,3028
+HoDaLa,Outer Richmond,5801 Geary Blvd,(415) 702-9510,199
+The Castro Republic,Castro,2295 Market St,(415) 934-0525,263
+No.1 SF BBQ,Inner Richmond,939 Clement St,(415) 819-3920,39
+Old Skool Cafe,Bayview-Hunters Point,1429 Mendell St,(415) 822-8531,470
+1760,Nob Hill,1760 Polk St,(415) 359-1212,656
+Original Joe’s,North Beach/Telegraph Hill,601 Union St,(415) 775-4877,1142
+Brenda’s Meat & Three,NoPa,919 Divisadero St,(415) 926-8657,823
+Park Tavern,North Beach/Telegraph Hill,1652 Stockton St,(415) 989-7300,1463
+Thanh Long,Outer Sunset,4101 Judah St,(415) 665-1146,2341
+The Italian Homemade Company,Marina/Cow Hollow,1919 Union St,(415) 655-9325,683
+Bar Crudo,NoPa,655 Divisadero St,(415) 409-0679,1786
+Nopalito,Lower Haight,306 Broderick St,(415) 535-3969,1728
+Izakaya Yoki,Lower Nob Hill,900 Bush St,(415) 923-1141,59
+West of Pecos,Mission,550 Valencia St,(415) 252-7000,846
+Boulevard,Financial District,1 Mission St,(415) 543-6084,2506
+Don Pisto’s,North Beach/Telegraph Hill,510 Union St,(415) 395-0939,1691
+Chong Qing Xiao Mian,Chinatown,915 Kearny St,(415) 983-0888,501
+Lord George,South Beach,555 2nd St,(415) 660-7633,231
+Mystic Room + Tavern,Union Square,417 Stockton St,(415) 400-0561,54
+Scopo Divino,Pacific Heights,2800 California St,(415) 928-3728,162
+Dabba,Marina/Cow Hollow,2240 Chestnut St,(415) 236-3984,37
+Cuisine of Nepal,Bernal Heights,3486 Mission St,(415) 647-2222,387
+The Cavalier,Union Square,360 Jessie St,(415) 321-6000,925
+Destino,Mission,1815 Market St,(415) 552-4451,1160
+Basil Thai Restaurant & Bar,SoMa,1175 Folsom St,(415) 552-8999,1405
+Tastebuds,Inner Richmond,600 5th Ave,(415) 668-9298,38
+Souvla,Hayes Valley,517 Hayes St,(415) 400-5458,1073
+Garaje,South Beach,475 3rd St,(415) 644-0838,1387
+PPQ Dungeness Island,Outer Richmond,2332 Clement St,(415) 386-8266,2817
+Okane,Mission Bay,669 Townsend St,(415) 865-9788,264
+Good Mong Kok Bakery,Chinatown,1039 Stockton St,(415) 397-2688,2143
+Wooden Spoon,Duboce Triangle,2172 Market St,(415) 946-3005,91
+Muracci’s Japanese Curry & Grill,Chinatown,307 Kearny St,(415) 773-1101,1603
+Woodhouse Fish,Castro,2073 Market St,(415) 437-2722,1569
+Dragon Beaux,Outer Richmond,5700 Geary Blvd,(415) 333-8899,1110
+Gracias Madre,Mission,2211 Mission St,(415) 683-1346,2886
+Leopold’s,Russian Hill,2400 Polk St,(415) 474-2000,979
+Troya,Pacific Heights,2125 Fillmore St,(415) 563-1000,458
+Baker Street Bistro,Marina/Cow Hollow,2953 Baker St,(415) 931-1475,573
+Gilberth’s Latin Fusion Restaurant,Dogpatch,2427 3rd St,(415) 913-7163,293
+Khai,Mission Bay,655 Townsend St,(415) 724-2325,110
+The Richmond,Inner Richmond,615 Balboa St,(415) 379-8988,642
+The Game Parlour,Inner Sunset,1342 Irving St,(415) 571-8569,91
+Woodhouse Fish Company,Lower Pacific Heights,1914 Fillmore St,(415) 437-2722,2052
+Chez Maman West,Hayes Valley,401 Gough St,(415) 355-9067,969
+Castagna,Marina/Cow Hollow,2015 Chestnut St,(415) 440-4290,339
+Franciscan Crab Restaurant,Fisherman's Wharf,Pier 43 1/2 Fisherman's Wharf,(415) 362-7733,1549
+Aliment,Nob Hill,786 Bush St,(415) 829-2737,507
+Oasis Grill,Financial District,91 Drumm St,(415) 781-0313,1174
+E&O Kitchen and Bar,Union Square,314 Sutter St,(415) 693-0303,872
+AVERY,Western Addition,1552 Fillmore St,(415) 817-1187,36
+Lao Table,Financial District,149 2nd St,(415) 278-9991,583
+Albona Ristorante Istriano,North Beach/Telegraph Hill,545 Francisco St,(415) 441-1040,654
+Mr East Kitchen,SoMa,276 Fifth St,(415) 658-7335,29
+Poesia,Castro,4072 18th St,(415) 252-9325,717
+The Meatball Bar,Hayes Valley,602 Hayes St,(415) 872-9079,94
+Saucy Asian,Castro,3801 17th St,(415) 834-5555,216
+Souvla,NoPa,531 Divisadero St,(415) 400-5458,329
+House Of Pancakes,Parkside,937 Taraval St,(415) 681-8388,780
+Revelry Bistro,Hayes Valley,297 Page St,(415) 241-6833,167
+Dinosaurs,Castro,2275 Market St,(415) 503-1421,849
+Dottie’s True Blue Cafe,SoMa,28 6th St,(415) 885-2767,4055
+The Alembic,The Haight,1725 Haight St,(415) 666-0822,1636
+Nopalito,Inner Sunset,1224 9th Ave,(415) 233-9966,1145
+Iza Ramen Lower Haight,Lower Haight,237 Fillmore St,(415) 926-8173,547
+Tanguito,Fisherman's Wharf,2850 Jones St,(415) 577-4223,552
+BIX,Financial District,56 Gold St,(415) 433-6300,1683
+Octavia,Lower Pacific Heights,1701 Octavia St,(415) 408-7507,442
+Volcano,Outer Richmond,5454 Geary Blvd,(415) 752-7671,1024
+Mazzat,Hayes Valley,501 Fell St,(415) 525-3901,445
+Bella Trattoria,Inner Richmond,3854 Geary Blvd,(415) 221-0305,1239
+Burma Love,Mission,211 Valencia St,(415) 861-2100,884
+Laksa,Mission,1005 Guerrero St,(415) 913-7396,218
+The Buena Vista,Russian Hill,2765 Hyde St,(415) 474-5044,2267
+Hoffmann’s Grill & Rotisserie,Mission,1000 Guerrero St,(415) 374-7479,203
+Bistro Central Parc,NoPa,560 Central Ave,(415) 931-7272,895
+Parada 22,The Haight,1805 Haight St,(415) 750-1111,1054
+School Night,Dogpatch,601 19th St,(415) 903-5427,47
+Tartine Bakery & Cafe,Mission,600 Guerrero St,(415) 487-2600,7295
+The Dorian,Marina/Cow Hollow,2001 Chestnut St,(415) 814-2671,390
+Hollywood Cafe,Fisherman's Wharf,530 North Point St,(415) 563-3779,1855
+Betty Lou’s Seafood & Grill,North Beach/Telegraph Hill,318 Columbus Ave,(415) 757-0569,400
+The Progress,Western Addition,1525 Fillmore St,(415) 673-1294,714
+Mission Beach Cafe,Mission,198 Guerrero St,(415) 861-0198,2562
+Khamsa,Mission,1503 15th St,(628) 233-1503,129
+54 Mint - Ristorante Italiano,SoMa,16 Mint Plz,(415) 543-5100,1034
+Bask,Financial District,42 Columbus Ave,(415) 392-2275,539
+August 1 Five,Civic Center,524 Van Ness Ave,(415) 771-5900,548
+Bacco,Noe Valley,737 Diamond St,(415) 282-4969,430
+Fayala,Financial District,215 Fremont St,(415) 757-0444,200
+Farmerbrown,Union Square,25 Mason St,(415) 409-3276,3408
+Tommy’s Joynt,Fillmore,1101 Geary Blvd,(415) 775-4216,2672
+Delarosa,Union Square,37 Yerba Buena Ln,(415) 872-7363,873
+DragonEats,The Haight,1671 Haight St,(415) 522-6689,145
+Chambers,Tenderloin,601 Eddy St,(415) 496-5178,901
+Plow,Potrero Hill,1299 18th St,(415) 821-7569,2280
+Slurp Ramen,Chinatown,710 Commercial St,(415) 399-1042,370
+Finn Town,Castro,2251 Market St,(415) 626-3466,325
+Alegrias,Marina/Cow Hollow,2018 Lombard St,(415) 929-8888,725
+Venus Cafe,Inner Richmond,700 Clement St,(415) 964-8888,37
+Cotogna,Financial District,490 Pacific Ave,(415) 775-8508,1287
+Hunan Home’s Restaurant,Chinatown,622 Jackson St,(415) 982-2844,1868
+Mochica,Potrero Hill,1469 18th St,(415) 278-0480,366
+Zarzuela,Russian Hill,2000 Hyde St,(415) 346-0800,1056
+Izakaya Roku,Mission,1819 Market St,(415) 861-6500,394
+Halu,Inner Richmond,312 8th Ave,(415) 221-9165,836
+Cioppino’s,Fisherman's Wharf,400 Jefferson St,(415) 775-9311,1425
+Waterbar,Embarcadero,399 The Embarcadero,(415) 284-9922,2756
+Lazy Bear,Mission,3416 19th St,(415) 874-9921,486
+Me & Tasty,Castro,3970 17th St,(415) 923-8498,215
+Super Duper Burgers,Duboce Triangle,2304 Market St,(415) 558-8123,1190
+The Monk’s Kettle,Mission,3141 16th St,(415) 865-9523,2069
+Old Bus Tavern,Bernal Heights,3193 Mission St,(415) 843-1938,160
+Alamo Square Seafood Grill,Alamo Square,803 Fillmore St,(415) 440-2828,605
+The Rotunda,Union Square,150 Stockton St,(415) 249-2720,1484
+Paprika,Mission,3324 24th St,(415) 375-1477,353
+Breakfast at Tiffany’s,Portola,2499 San Bruno Ave,(415) 468-8805,746
+R&G Lounge,Chinatown,631 Kearny St,(415) 982-7877,4054
+Amélie,Nob Hill,1754 Polk St,(415) 292-6916,1276
+The Little Chihuahua,Lower Haight,292 Divisadero St,(415) 255-8225,1386
+Uva Enoteca,Lower Haight,568 Haight St,(415) 829-2024,881
+Mikkeller Bar,Union Square,34 Mason St,(415) 984-0279,1097
+Papito Hayes,Hayes Valley,425 Hayes St,(415) 554-0541,465
+Rambler,Union Square,545 Post St,(415) 549-8008,370
+Orchids Cafe,Ingleside,1031 Ocean Ave,(415) 333-8668,48
+Pera,Potrero Hill,1457 18th St,(415) 796-3812,547
+Swan Oyster Depot,Nob Hill,1517 Polk St,(415) 673-1101,2496
+Tratto,Tenderloin,501 Geary St,(415) 292-0101,347
+KoJa Kitchen,Inner Richmond,343 Clement St,(415) 463-5085,544
+Tacorgasmico,Castro,2337 Market St,(415) 565-0655,201
+Truly Mediterranean,Mission,3109 16th St,(415) 252-7482,1129
+The Crew,Outer Sunset,1330 Noriega St,(415) 665-8548,376
+Bobo’s,Marina/Cow Hollow,1450 Lombard St,(415) 441-8880,1916
+Orexi,West Portal,243 W Portal Ave,(415) 664-6739,320
+The Fly Trap,Financial District,606 Folsom St,(415) 243-0580,940
+Presidio Social Club,Presidio,563 Ruger St,(415) 885-1888,1066
+The Pub At Ghirardelli Square,Russian Hill,851 Beach St,(415) 351-0500,822
+Piqueo’s,Bernal Heights,830 Cortland Ave,(415) 282-8812,604
+Commonwealth,Mission,2224 Mission St,(415) 355-1500,988
+Alma Cocina,Mission,2801 Folsom St,(415) 341-0389,175
+Jardiniere,Hayes Valley,300 Grove St,(415) 861-5555,1585
+Pier Market Seafood Restaurant,Fisherman's Wharf,Pier 39,(415) 989-7437,1356
+Locanda,Mission,557 Valencia St,(415) 863-6800,934
+Freshroll Vietnamese Rolls & Bowls,SoMa,157 4th St,(415) 348-1858,1095
+Acquerello,Nob Hill,1722 Sacramento St,(415) 567-5432,1015
+Bolin Barbeque,Marina/Cow Hollow,1979 Union St,(415) 650-6773,31
+B Star Bar,Inner Richmond,127 Clement St,(415) 933-9900,1738
+The Slanted Door,Embarcadero,1 Ferry Bldg,(415) 861-8032,5271
+Rooster & Rice,Marina/Cow Hollow,2211 Filbert St,(415) 776-3647,381
+MaMa Ji’s,Castro,4416 18th St,(415) 626-4416,685
+Ly’s Vietnamese Cuisine,Marina/Cow Hollow,1779 Lombard St,(415) 563-1927,352
+Ichiraku Ramen,Inner Richmond,5336 Geary Blvd,(415) 813-0878,75
+Z & Y Restaurant,Chinatown,655 Jackson St,(415) 981-8988,1364
+Tonga Room & Hurricane Bar,Nob Hill,950 Mason St,(415) 772-5278,2429
+Gardenias,Lower Pacific Heights,1963 Sutter St,(415) 621-7122,101
+Emmy’s Spaghetti Shack,Bernal Heights,3230 Mission St,(415) 206-2086,382
+Mathilde French Bistro,SoMa,315 5th St,(415) 546-6128,173
+Begoni Bistro,Chinatown,615 Jackson St,(415) 757-0120,454
+Rocco’s Café,SoMa,1131 Folsom St,(415) 554-0522,858
+Seokyo,Noe Valley,1740 Church St,(415) 875-9881,71
+La Mediterranee,Pacific Heights,2210 Fillmore St,(415) 921-2956,1398
+Jang Soo BBQ,Outer Richmond,6314 Geary Blvd,(415) 221-8282,491
+Dispensa Italian Charcoal Kitchen,Tenderloin,39 Taylor St,(415) 896-4021,46
+Street Taco,The Haight,1607 Haight St,(415) 525-4435,503
+4505 Burgers & BBQ,NoPa,705 Divisadero St,(415) 231-6993,1347
+La Folie,Russian Hill,2316 Polk St,(415) 776-5577,1409
+The Snug,Pacific Heights,2301 Fillmore St,(415) 562-5092,109
+Limoncello,Lower Pacific Heights,1400 Sutter St,(415) 638-6361,214
+Sessions at the Presidio,Presidio,1 Letterman Dr,(415) 655-9413,402
+Uma Casa,Noe Valley,1550 Church St,(415) 829-2264,198
+Maybeck’s,Marina/Cow Hollow,3213 Scott St,(415) 400-8500,250
+Queen’s Louisiana Po-Boy Cafe,North Beach/Telegraph Hill,Pier 33 N The Embarcadero,(415) 397-1507,526
+DOSA on Fillmore,Lower Pacific Heights,1700 Fillmore St,(415) 441-3672,2757
+Pica Pica Arepa Kitchen,Mission,401 Valencia St,(628) 400-5744,1346
+Mozzeria,Mission,3228 16th St,(415) 489-0963,663
+Sauce Gough,Hayes Valley,131 Gough St,(415) 252-1369,1105
+Hollow Cow,Marina/Cow Hollow,1875 Union St,(415) 655-9262,156
+Caffe Macaroni,Financial District,59 Columbus Ave,(415) 956-9737,503
+Manzoni,Glen Park,2788 Diamond St,(415) 334-2251,212
+Chubby Noodle,North Beach/Telegraph Hill,1310 Grant St,(415) 296-9600,382
+Fondue Cowboy,SoMa,1052 Folsom St,(415) 431-5100,525
+Cordon Bleu,Nob Hill,1574 California St,(415) 673-5637,993
+La Taqueria,Mission,2889 Mission St,(415) 285-7117,3523
+Golden Burma,Mission Bay,15 Boardman St,(415) 735-8282,90
+BARZOTTO,Mission,1270 Valencia St,(415) 285-1200,396
+Le Soleil,Inner Richmond,133 Clement St,(415) 668-4848,480
+SPQR,Lower Pacific Heights,1911 Fillmore St,(415) 771-7779,1842
+Stone Bowl Plus,Lower Haight,509 Haight St,(415) 834-5025,136
+Media Noche,Mission,3465 19th St,(415) 655-3904,255
+Tadich Grill,Financial District,240 California St,(415) 391-1849,2168
+Perilla,Inner Sunset,836 Irving St,(415) 564-9980,1120
+Nute’s,Bernal Heights,903 Cortland Ave,(415) 260-0192,127
+Bite,Lower Nob Hill,912 Sutter St,(415) 563-2483,654
+Pacific Cafe,Outer Richmond,7000 Geary Blvd,(415) 387-7091,692
+Golden Boy Pizza,North Beach/Telegraph Hill,542 Green St,(415) 982-9738,3018
+Live Sushi Bar,Potrero Hill,2001 17th St,(415) 861-8610,1164
+Maven,Lower Haight,598 Haight St,(415) 829-7982,640
+DragonEats,Hayes Valley,520 Gough St,(415) 795-1469,324
+Fillmore Social Club,Western Addition,1521 Eddy St,(415) 829-3750,148
+Birba,Hayes Valley,458 Grove St,(415) 549-7612,87
+Fringale,Mission Bay,570 4th St,(415) 543-0573,1032
+O-Toro Sushi,Hayes Valley,205 Oak St,(415) 553-3986,752
+Grubbin’,Parkside,1404 Taraval St,(415) 688-7116,417
+Minas Brazilian Restaurant,Hayes Valley,41 Franklin St,(415) 626-8727,315
+AL’s Place,Mission,1499 Valencia St,(415) 416-6136,617
+Horsefeather,Alamo Square,528 Divisidero St,(415) 817-1939,186
+Frascati,Russian Hill,1901 Hyde St,(415) 928-1406,1139
+Shizen Vegan Sushi Bar & Izakaya,Mission,370 14th St,(415) 678-5767,1152
+Garibaldi’s,Presidio Heights,347 Presidio Ave,(415) 563-8841,518
+Palomino,Embarcadero,345 Spear St,(415) 512-7400,2445
+Yummy Yummy,Inner Sunset,1015 Irving St,(415) 566-4722,1303
+Aria Korean Tapas,Lower Nob Hill,932 Larkin St,(415) 292-6914,472
+barvale,NoPa,661 Divisadero,(415) 654-5211,171
+Diane’s Bloody Mary,Marina/Cow Hollow,2120 Greenwich St,(415) 625-5470,22
+Papito Potrero Hill,Potrero Hill,317 Connecticut St,(415) 695-0147,623
+Golden Star Vietnamese Restaurant,Chinatown,11 Walter U Lum Pl,(415) 398-1215,1153
+Kaiju Eats Ramen and Izakaya,Laurel Heights,3409 Geary Blvd,(415) 742-4309,618
+Craftsman and Wolves,Mission,746 Valencia St,(415) 913-7713,1394
+Delarosa,Marina/Cow Hollow,2175 Chestnut St,(415) 673-7100,1361
+Blush!,Castro,476 Castro St,(415) 558-0893,279
+Twenty Five Lusk,Mission Bay,25 Lusk St,(415) 495-5875,1333
+La Briciola,South Beach,489 3rd St,(415) 512-0300,846
+Orphan Andy’s,Castro,3991 17th St,(415) 864-9795,849
+Rosamunde Sausage Grill - San Francisco,Lower Haight,545 Haight St,(415) 437-6851,1541
+Ramen Yamadaya,Japantown,1728 Buchanan St,(415) 359-9983,1184
+Basil Canteen,SoMa,1489 Folsom St,(415) 552-3963,504
+Mandalay,Inner Richmond,4348 California St,(415) 386-3896,1955
+Picaro,Mission,3120 16th St,(415) 431-4089,1402
+True Laurel,Mission,753 Alabama St,(415) 341-0020,111
+Barnzu,Tenderloin,711 Geary St,(415) 525-4985,130
+Canela Bistro & Wine Bar,Duboce Triangle,2272 Market St,(415) 552-3000,566
+Mangiare SF,Bayview-Hunters Point,301 Executive Park Blvd,(650) 608-1432,102
+The Tipsy Pig,Marina/Cow Hollow,2231 Chestnut St,(415) 292-2300,1449
+Arguello,Presidio,50 Moraga Ave,(415) 561-3650,266
+Yamo,Mission,3406 18th St,(415) 553-8911,1865
+Pearl,Outer Richmond,6101 California St,(415) 592-9777,73
+Red Hill Station,Bernal Heights,803 Cortland Ave,(415) 757-0480,353
+JIJIME,Outer Richmond,5524 Geary Blvd,(415) 221-5353,111
+Cafe Bunn Mi,Inner Richmond,417 Clement St,(415) 668-8908,1130
+MARUGAME UDON,Stonestown,3251 20th Ave,(415) 680-1280,863
+Tselogs,Tenderloin,552 Jones St,(415) 658-7142,443
+MAC’D,Marina/Cow Hollow,3347 Fillmore St,(415) 795-1026,516
+One Waan,Sunnyside,2922 Diamond St,(415) 586-6742,129
+The Barrel Room,Financial District,415 Sansome St,(415) 956-6900,252
+Espetus Brazilian Steak House,Hayes Valley,1686 Market St,(415) 552-8792,3145
+Greens Restaurant,Marina/Cow Hollow,Fort Mason,(415) 771-6222,1898
+Go Go 7,Westwood Park,1300 Ocean Ave,(415) 333-4344,67
+Eight AM,Russian Hill,1323 Columbus Ave,(415) 292-4888,951
+Tacolicious,Marina/Cow Hollow,2250 Chestnut St,(415) 649-6077,1496
+Pizzetta 211,Outer Richmond,211 23rd Ave,(415) 379-9880,1156
+Bistro Aix,Marina/Cow Hollow,3340 Steiner St,(415) 202-0100,609
+Bursa,West Portal,60 West Portal Ave,(415) 564-4006,720
+Hot Sauce and Panko,Nob Hill,1468 Hyde St,(415) 359-1908,997
+Lou’s Cafe,Inner Richmond,5017 Geary Blvd,(415) 379-4429,1398
+Saison,South Beach,178 Townsend St,(415) 828-7990,414
+Tú Lan,SoMa,8 6th St,(415) 626-0927,617
+Mau,Mission,665 Valencia St,(415) 934-8889,786
+The Stinking Rose,North Beach/Telegraph Hill,325 Columbus Ave,(415) 781-7673,3624
+Velvet Cantina,Mission,3349 23rd St,(415) 648-4142,1181
+Theorita,Alamo Square,834 Divisadero St,(415) 416-6980,19
+Delancey Street Restaurant,South Beach,600 The Embarcadero,(415) 512-5179,1477
+Barbarossa Lounge,Financial District,714 Montgomery St,(415) 434-4204,330
+Bellota,Mission Bay,888 Brannan St,(415) 430-6580,467
+Bistro10UN,Civic Center,1130 Market St,(415) 276-4048,26
+Trick Dog,Mission,3010 20th St,(415) 471-2999,712
+Dancing Yak,Mission,280 Valencia St,(415) 525-4857,117
+Kaya,Civic Center,1420 Market St,(415) 590-2585,107
+Montesacro Pinseria-Enoteca,SoMa,510 Stevenson St,(415) 795-3040,505
+The Brick Yard,Marina/Cow Hollow,1787 Union St,(415) 400-4712,533
+Just For You Cafe,Potrero Hill,732 22nd St,(415) 647-3033,1339
+Matador,Lower Nob Hill,679 Sutter St,(415) 923-8146,436
+Quince,Financial District,470 Pacific Ave,(415) 775-8500,1373
+Sociale,Presidio Heights,3665 Sacramento St,(415) 921-3200,634
+Fumi Japanese Curry & Ramen,Bernal Heights,3303 Mission St,(415) 757-0901,256
+Mister Jiu’s,Chinatown,28 Waverly Pl,(415) 857-9688,426
+Cafe Europa,Inner Richmond,4318 California St,(415) 386-1000,381
+Jin Mi Korean Cuisine,Civic Center,366 Golden Gate Ave,(415) 834-5007,397
+Castro Tarts,Castro,564 Castro St,(415) 861-3268,255
+Amarena,Russian Hill,2162 Larkin St,(415) 447-0441,524
+Casa Flores,Pacific Heights,1808 California St,(408) 475-6895,66
+Namu Gaji,Mission,499 Dolores St,(415) 431-6268,707
+Wooly Pig,Dogpatch,2295 3rd St,(415) 592-8015,592
+Naked Lunch,North Beach/Telegraph Hill,504 Broadway,(415) 577-4951,590
+Crab House at Pier 39,Fisherman's Wharf,203 C Pier 39,(415) 434-2722,2047
+Manna,Inner Sunset,845 Irving St,(415) 665-5969,951
+Common Sage,Nob Hill,1552 Polk St,(415) 580-7178,175
+Alba Ray’s,Mission,2293 Mission St,(415) 872-9409,309
+Bodega,Russian Hill,700 Columbus Ave,(415) 634-7002,156
+Mourad Restaurant,Financial District,140 New Montgomery St,(415) 660-2500,812
+Azucar Lounge,SoMa,299 9th St,(415) 255-2982,603
+Cafe Josephine,Corona Heights,199 Museum Way,(415) 350-9871,6
+Terzo,Marina/Cow Hollow,3011 Steiner St,(415) 441-3200,583
+The Old Clam House,Bayview-Hunters Point,299 Bayshore Blvd,(415) 826-4880,723
+1428 HAIGHT Patio Cafe & Crepery,The Haight,1428 Haight St,(415) 864-8484,306
+a Mano,Hayes Valley,450 Hayes St,(415) 506-7401,528
+Suzu Noodle House,Lower Pacific Heights,1825 Post St,(415) 346-5083,1387
+Dim Sum Club,Russian Hill,2550 Van Ness Ave,(415) 529-2615,318
+Baonecci Ristorante,North Beach/Telegraph Hill,516 Green St,(415) 989-1806,906
+Olea,Nob Hill,1494 California St,(415) 202-8521,877
+The Commissary,Presidio,101 Montgomery St,(415) 561-3600,320
+Hard Water,Embarcadero,Pier 3,(415) 392-3021,561
+Pier 23 Cafe,North Beach/Telegraph Hill,The Embarcadero,(415) 362-5125,1574
+Aquitaine,Financial District,175 Sutter St,(415) 402-5290,256
+Black Sands,Lower Haight,701 Haight St,(415) 534-5194,238
+Sushirrito,Financial District,226 Kearny St,(415) 544-9868,1397
+Matko,Financial District,1 Market St,(415) 757-6941,43
+Umi,Potrero Hill,1328 18th St,(415) 355-1328,569
+Fog City,North Beach/Telegraph Hill,1300 Battery St,(415) 982-2000,645
+Roma Antica,Marina/Cow Hollow,3242 Scott St,(415) 896-4002,250
+Universal Cafe,Mission,2814 19th St,(415) 821-4608,1279
+Lers Ros,Tenderloin,730 Larkin St,(415) 931-6917,2066
+Little Gem,Hayes Valley,400 Grove St,(415) 914-0501,329
+Iza Ramen SOMA,SoMa,1155 Folsom St,(628) 444-3070,293
+Goemon,Inner Sunset,1524 Irving St,(415) 742-5137,80
+Limón Rotisserie,Mission,524 Valencia St,(415) 252-0918,2331
+Flour + Water,Mission,2401 Harrison St,(415) 826-7000,2126
+SAM’s Diner,Civic Center,1220 Market St,(415) 626-8590,620
+Toppu Ramen & Dim Sum House,Chinatown,941 Kearny St,(415) 923-8055,86
+Fiorella,Outer Richmond,2339 Clement St,(415) 340-3049,321
+Little Star Pizza,Alamo Square,846 Divisadero St,(415) 441-1118,2741
+Perbacco,Financial District,230 California St,(415) 955-0663,1911
+Pacific Catch,Inner Sunset,1200 9th Ave,(415) 504-6905,1651
+Taboun,Twin Peaks,203 Parnassus Ave,(415) 566-9696,207
+Pacific Catch,Marina/Cow Hollow,2027 Chestnut St,(415) 440-1950,1508
+"Bon, Nene",Mission,2850 21st St,(415) 872-9332,130
+Champa Garden,Mount Davidson Manor,613 Faxon Ave,(415) 349-4186,629
+Bistro SF Grill,Noe Valley,1305 Castro St,(415) 409-6410,116
+Poke Fusion,Chinatown,112 Waverly Pl,(415) 968-5355,59
+La Trappe,Russian Hill,800 Greenwich St,(415) 440-8727,804
+Casa Barajas,Outer Sunset,1849 Lincoln Way,(415) 242-9931,11
+Californios,Mission,3115 22nd St,(415) 757-0994,243
+Sparrow Bar and Kitchen,The Haight,1640 Haight St,(415) 622-6137,384
+Fresca,West Portal,24 W Portal Ave,(415) 759-8087,886
+The Crafty Fox Ale House,Mission,1700 Mission St,(415) 416-6602,178
+Gibson,Union Square,111 Mason St,(415) 771-7709,97
+The Educated Palate,SoMa,88 4th St,(415) 908-7522,59
+Magic Flute Ristorante,Presidio Heights,3673 Sacramento St,(415) 922-1225,510
+Woodbury,South Beach,685 3rd St,(415) 475-9398,185
+Sugarhill Kitchen,Marina/Cow Hollow,1449 Lombard St,(415) 292-2368,57
+Tempest,SoMa,431 Natoma St,(415) 495-1863,669
+Poki Time,Inner Sunset,549 Irving St,(415) 702-6333,433
+Nob Hill Cafe,Nob Hill,1152 Taylor St,(415) 776-6500,1175
+Jasmine Garden,Duboce Triangle,708 14th St,(415) 861-2682,607
+Hillside Supper Club,Bernal Heights,300 Precita Ave,(415) 285-6005,333
+Sakesan Sushi & Robata,Westwood Park,1400 Ocean Ave,(415) 347-7898,108
+Eiji,Castro,317 Sanchez St,(415) 558-8149,1033
+Hwaro,Mission Terrace,4516 Mission St,(415) 859-7111,168
+Cafe Claude,Financial District,7 Claude Ln,(415) 392-3505,1894
+Il Pollaio,North Beach/Telegraph Hill,555 Columbus Ave,(415) 362-7727,357
+Bullshead Restaurant,West Portal,840 Ulloa St,(415) 665-4350,767
+Chicano Nuevo,Bernal Heights,3158 Mission St,(415) 583-7641,26
+Corridor Restaurant,Civic Center,100 Van Ness Ave,(415) 834-5684,276
+Cracked & Battered,Potrero Hill,1434 18th St,(415) 926-8645,66
+Smokin’ Warehouse Barbecue,Bayview-Hunters Point,1465 Carroll Ave,(415) 648-8881,143
+Marnee Thai,Inner Sunset,1243 9th Ave,(415) 731-9999,1544
+Good Luck Dim Sum,Inner Richmond,736 Clement St,(415) 386-3388,1442
+The MINA Test Kitchen,Marina/Cow Hollow,2120 Greenwich St,(415) 625-5469,245
+Primavera,Embarcadero,1 Ferry Plz,(707) 939-9350,205
+Mangal Mediterranean Restaurant,Lower Nob Hill,728 Post St,(415) 374-6753,38
+Upcider,Lower Nob Hill,1160 Polk St,(415) 966-5730,554
+Tsubasa Sushi,Hayes Valley,429 Gough St,(415) 551-9688,311
+Super Pan,Inner Richmond,5344 Geary Blvd,(415) 668-5344,298
+Roam Artisan Burgers,Lower Pacific Heights,1923 Fillmore St,(415) 800-7801,1076
+Bergerac,SoMa,316 11th St,(415) 255-9440,272
+Rooster & Rice,SoMa,303 2nd St,(415) 896-2000,299
+Beer 39,Fisherman's Wharf,39 Pier,(415) 421-2699,121
+Isa Restaurant,Marina/Cow Hollow,3324 Steiner St,(415) 567-9588,1918
+5A5 Steak Lounge,Financial District,244 Jackson St,(415) 989-2539,1993
+Eight Tables by George Chen,North Beach/Telegraph Hill,8 Kenneth Rexroth Pl,(415) 788-8788,43
+Kim Son Vietnamese Restaurant,Outer Richmond,3614 Balboa St,(415) 221-3811,646
+Noeteca Wine Bar,Bernal Heights,1551 Dolores St,(415) 824-5524,427
+Jiangnan Cuisine,Outer Richmond,3420 Balboa St,(415) 702-9931,150
+Pa’ina Lounge & Restaurant,Lower Pacific Heights,1865 Post St,(415) 829-2642,461
+House of Nanking,Chinatown,919 Kearny St,(415) 421-1429,3072
+Flores,Marina/Cow Hollow,2030 Union St,(415) 796-2926,326
+Dobbs Ferry Restaurant,Hayes Valley,409 Gough St,(415) 551-7700,538
+Malasa,Inner Sunset,1336 9th Ave,(415) 682-9980,97
+Mission Rock Resort,Potrero Hill,817 Terry Francois Blvd,(415) 701-7625,791
+B on the Go,Pacific Heights,2794 California St,(415) 589-7112,153
+Simply Delish,Bayview-Hunters Point,5698 3rd St,(415) 529-1649,56
+Omakase,Mission Bay,665 Townsend St,(415) 865-0633,338
+Magnolia Pub & Brewery,The Haight,1398 Haight St,(415) 864-7468,1717
+Kaisen DON,Ingleside Terraces,1939 Ocean Ave,(415) 859-9081,152
+Tartine Manufactory,Mission,595 Alabama St,(415) 757-0007,848
+Out The Door,Lower Pacific Heights,2232 Bush St,(415) 923-9575,643
+CatHead’s BBQ,SoMa,1665 Folsom St,(415) 861-4242,830
+PianoFight,Union Square,144 Taylor St,(415) 816-3691,173
+Ritu Indian Soul Food,Mission,3111 24th St,(415) 874-9045,186
+Hinata,Tenderloin,810 Van Ness Ave,(415) 829-8291,310
+Barrio,Russian Hill,1609 Powell St,(415) 923-8997,27
+ATwater Tavern,Mission Bay,295 Terry A Francois Blvd,(415) 512-7153,250
+Han Il Kwan,Outer Richmond,1802 Balboa St,(415) 752-4447,1455
+Pearl’s Deluxe Burgers,Lower Nob Hill,708 Post St,(415) 409-6120,2040
+Diamond Cafe,Noe Valley,751 Diamond St,(415) 655-3674,112
+20 Spot,Mission,3565 20th St,(415) 624-3140,223
+Samovar Tea Lounge,SoMa,730 Howard St,(415) 227-9400,2207
+Nico,Financial District,710 Montgomery St,(415) 359-1000,238
+The Morris,Mission,2501 Mariposa St,(415) 612-8480,183
+Puccini & Pinetti,Union Square,129 Ellis St,(415) 392-5500,988
+Pork Store Cafe,The Haight,1451 Haight St,(415) 864-6981,1293
+Paramount Superstars,Inner Richmond,939 Clement St,(415) 702-6677,11
+Thorough Bread & Pastry,Castro,248 Church St,(415) 558-0690,777
+Osha Thai,Financial District,4 Embarcadero Ctr,(415) 788-6742,2194
+Saap Ver Authentic Thai Cuisine,Mission Bay,88 Division St,(415) 255-8188,320
+Social Kitchen & Brewery,Inner Sunset,1326 9th Ave,(415) 681-0330,889
+Comstock Saloon,Chinatown,155 Columbus Ave,(415) 617-0071,882
+Palmyra,Lower Haight,700 Haight St,(415) 896-4172,794
+15 Romolo,North Beach/Telegraph Hill,15 Romolo Pl,(415) 398-1359,1019
+Beachside Coffee Bar & Kitchen,Outer Sunset,4300 Judah St,(415) 682-4961,731
+Rintaro,Mission,82 14th St,(415) 589-7022,449
+Ijji Sushi,Lower Haight,252 Divisadero St,(415) 658-7388,161
+Alexander’s Steakhouse,Mission Bay,448 Brannan St,(415) 495-1111,1560
+Sutro’s at The Cliff House,Sea Cliff,1090 Point Lobos Ave,(415) 386-3330,1274
+Fior d’Italia,North Beach/Telegraph Hill,2237 Mason St,(415) 986-1886,455
+The Korean Kitchen,Inner Sunset,1220 9th Ave,(415) 566-5777,191
+Dinosaurs Vietnamese Sandwiches,Mission Bay,18 Boardman Pl,(415) 701-1421,127
+Domo,Hayes Valley,511 Laguna St,(415) 861-8887,848
+Atelier Crenn,Marina/Cow Hollow,3127 Fillmore St,(415) 440-0460,634
+Hong Kong Clay Pot Restaurant,Chinatown,960 Grant Ave,(415) 989-2638,757
+ChiliCali,Mission,710 Florida St,(510) 516-0767,14
+The Big 4,Nob Hill,1075 California St,(415) 771-1140,597
+Francisca’s,Mission,3047 Mission St,(415) 374-5747,75
+Venticello Ristorante,Nob Hill,1257 Taylor St,(415) 922-2545,466
+El Buen Comer,Bernal Heights,3435 Mission St,(415) 817-1542,232
+Fat Angel,Western Addition,1740 O'Farrell St,(415) 525-3013,800
+Tacolicious,Mission,741 Valencia St,(415) 649-6077,1283
+Pagan Restaurant,Outer Richmond,3199 Clement St,(415) 751-2598,493
+1601 Bar & Kitchen,SoMa,1601 Howard St,(415) 552-1601,232
+Muguboka Restaurant,Inner Richmond,401 Balboa St,(415) 668-6007,726
+pomelo on Judah,Inner Sunset,92 Judah St,(415) 731-6175,418
+BLUE Pea,Mission,525 Valencia St,(415) 872-6988,81
+Archive Bar & Kitchen,Financial District,602 Mission St,(415) 987-5770,297
+The Dark Horse Inn,Crocker-Amazon,942 Geneva Ave,(415) 469-5508,285
+Waraku,Japantown,1638 Post St,(415) 292-3388,761
+Bacon Bacon,Ashbury Heights,205 A Frederick St,(415) 218-4347,382
+Old Jerusalem Restaurant,Mission,2966 Mission St,(415) 642-5958,964
+Parkside Tavern,Parkside,1940 Taraval St,(415) 731-8900,510
+Wine Kitchen,NoPa,507 Divisadero St,(415) 525-3485,162
+Tacos Club,Duboce Triangle,2312 Market St,(415) 796-2818,213
+Marcella’s Lasagneria,Potrero Hill,1099 Tennessee St,(415) 920-2225,326
+1608 Bistro,Lower Pacific Heights,1608 Bush St,(415) 346-1608,57
+Fogo de Chão Brazilian Steakhouse,SoMa,201 3rd St,(415) 427-0004,642
+Turner’s Kitchen,Mission,3505 17th St,(415) 621-3505,270
+Fifth Arrow,Union Square,430 Mason St,(415) 872-5744,36
+Keiko à Nob Hill,Nob Hill,1250 Jones St,(415) 829-7141,368
+Sajj Mediterranean,Financial District,485 Pine St,(415) 814-3210,9
+White Horse Tavern & Restaurant,Union Square,635 Sutter St,(415) 673-9900,256
+The Pig & Whistle,Laurel Heights,2801 Geary Blvd,(415) 885-4779,435
+Opa,Lower Pacific Heights,2401 Post St,(415) 913-7745,193
+La Marsa,Union Square,454 Geary St,(415) 872-9767,173
+Bistro At The Cliff House,Sea Cliff,1090 Point Lobos Ave,(415) 386-3330,1346
+Bussaba,Inner Sunset,534 Irving St,(415) 379-4505,40
+Sababa,Chinatown,329 Kearny St,(415) 800-6853,269
+Teeth SF,Mission,2323 Mission St,(415) 285-2380,940
+The Ramp,Dogpatch,855 Terry Francois St,(415) 621-2378,1018
+Lapisara Eatery,Lower Nob Hill,698 Post St,(415) 655-3556,104
+Waystone,Union Square,992 Market St,(707) 969-7491,97
+Deli Board,SoMa,1058 Folsom St,(415) 552-7687,1153
+The Saratoga,Lower Nob Hill,1000 Larkin St,(415) 932-6464,220
+Mescolanza,Inner Richmond,3750 Geary Blvd,(415) 668-2221,119
+Capannina,Marina/Cow Hollow,1809 Union St,(415) 409-8001,781
+Katana-Ya,Union Square,422 Geary St,(415) 771-1281,4004
+Aster,Mission,1001 Guerrero St,(415) 875-9810,359
+House of Thai,Lower Nob Hill,901 Larkin St,(415) 441-2248,1221
+Pomelo,Noe Valley,1793 Church St,(415) 285-2257,686
+Ben Thai Cafe,Lower Nob Hill,1331 Polk St,(415) 771-2562,352
+AsiaSF,SoMa,201 9th St,(415) 255-2742,1708
+The View Cafe,Laurel Heights,3333 California St,(415) 929-9333,12
+Friends with Benedicts Pop Up,Lower Nob Hill,1233 Polk St,(415) 374-6187,140
+Street Restaurant and Bar,Russian Hill,2141 Polk St,(415) 775-1055,609
+American Grilled Cheese Kitchen,South Beach,1 S Park St,(415) 243-0107,1444
+Yuzuki Japanese Eatery,Mission,598 Guerrero St,(415) 556-9898,375
+Slurp Noodle Bar,Castro,469 Castro St,(415) 553-6633,383
+Piccolo Petes Cafe,Visitacion Valley,2155 Bayshore Blvd,(415) 483-6416,229
+DNM Hot Pot,Inner Richmond,1115 Clement St,(415) 668-8666,49
+Michael Mina,Financial District,252 California St,(415) 397-9222,1143
+Griddle Fresh,Noe Valley,4007 24th St,(415) 647-7037,900
+Long Bridge Pizza,Dogpatch,2347 3rd St,(415) 829-8999,383
+Miki Restaurant,Outer Richmond,3639 Balboa St,(415) 387-0874,449
+Ragazza,Lower Haight,311 Divisadero St,(415) 255-1133,607
+The Sandwich Shop,Dogpatch,2071 3rd St,(415) 934-0756,70
+Camp BBQ,Inner Richmond,4014 Geary Blvd,(415) 387-1378,218
+Umami Burger Soma District,Mission Bay,242 King St,(415) 904-8626,870
+Harris’ Restaurant,Nob Hill,2100 Van Ness Ave,(415) 673-1888,1706
+Carmel Pizza Company,Fisherman's Wharf,2826 Jones St,(415) 676-1185,699
+Pink Onion,Mission,64 14th St,(415) 529-2635,193
+Wang Dae Bak,Lakeside,2642 Ocean Ave,(415) 564-1500,229
+El Rincón Yucateco,Tenderloin,491 O'farrell St,(415) 872-9231,130
+Fresca,Noe Valley,3945 24th St,(415) 695-0549,906
+Super Duper Burgers,Union Square,721 Market St,(415) 538-3437,2534
+Freddie’s Sandwiches,North Beach/Telegraph Hill,300 Francisco St,(415) 433-2882,426
+Stem Kitchen & Garden,Potrero Hill,499 Illinois St,(415) 915-1000,350
+Cadillac Bar & Grill,SoMa,44 9th St,(415) 554-0181,269
+Hearth,Castro,3985 17th St,(415) 800-6765,205
+Bota Tapas & Paella Bar,Union Square,490 Geary St,(628) 222-6241,166
+Ocean Ale House,Westwood Park,1314 Ocean Ave,(415) 988-7521,184
+Aicha Moroccan Cuisine,Lower Nob Hill,1303 Polk St,(415) 345-9947,445
+Sakesan Sushi & Bistro,Inner Richmond,626 Clement St,(415) 800-2082,962
+Pane E Vino,Marina/Cow Hollow,1715 Union St,(415) 441-2111,382
+Ushio Ramen,Mission,3128 16th St,(415) 703-0318,143
+Saru Sushi Bar,Noe Valley,3856 24th St,(415) 400-4510,748
+Osso Steakhouse,Nob Hill,1177 California St,(415) 771-6776,637
+The Willows,SoMa,1582 Folsom St,(415) 226-7768,229
+Cafe RX,Presidio,1013 Torney Ave,(415) 561-2273,107
+Che Fico,Alamo Square,838 Divisadero St,(415) 416-6959,192
+Sizzling Pot King,SoMa,139 8th St,(415) 814-2292,89
+DragonEats,SoMa,555 Folsom St,(415) 795-1169,305
+Jamber,SoMa,858 Folsom St,(415) 273-9192,621
+Vega,Bernal Heights,419 Cortland Ave,(415) 285-6000,517
+Ike’s Japanese Kitchen,Tenderloin,800 Van Ness Ave,(415) 775-5800,32
+Taqueria Guadalajara,Mission Terrace,4798 Mission St,(415) 469-5480,841
+EPIC Steak,Embarcadero,369 The Embarcadero,(415) 369-9955,2034
+Pläj Scandinavian Restaurant & Bar,Hayes Valley,333 Fulton St,(415) 294-8925,607
+Chabaa Thai Cuisine,Union Square,420 Geary St,(415) 346-3121,1171
+Il Casaro Pizzeria & Mozzarella Bar,North Beach/Telegraph Hill,348 Columbus Ave,(415) 677-9455,895
+Basa Seafood Express,Mission,3064 24th St,(415) 550-2388,554
+Pho Huynh Hiep 2 - Kevin’s Noodle House,Outer Sunset,1833 Irving St,(415) 664-0469,1475
+Pluto’s,Inner Sunset,627 Irving St,(415) 753-8867,1111
+Kawika’s Ocean Beach Deli,Outer Richmond,734 La Playa St,(415) 221-2031,383
+Indian Paradox,Lower Haight,258 Divisadero St,(415) 593-5386,126
+Azalina’s,SoMa,1355 Market St,(415) 660-2020,249
+Pampanguena Cuisine,Excelsior,4441 Mission St,(415) 586-8899,280
+Jitlada Thai Cuisine,Japantown,1826 Buchanan St,(415) 292-9027,573
+Kung Food,NoPa,1615 McAllister St,(415) 673-6688,401
+Union Larder,Russian Hill,1945 Hyde St,(415) 323-4845,121
+Kogi Gogi BBQ,Inner Sunset,1358 9th Ave,(415) 702-6792,223
+Tanpopo,Japantown,1740 Buchanan St,(415) 346-7132,1349
+Cocotte,Nob Hill,1521 Hyde St,(415) 292-4415,462
+Jannah,NoPa,1775 Fulton St,(415) 567-4400,358
+Alioto’s Restaurant,Fisherman's Wharf,8 Fishermans Wharf,(415) 673-0183,1590
+Lime Tree Southeast Asian Kitchen,Inner Richmond,836 Clement St,(415) 831-8811,274
+Auntie April’s Chicken-n-Waffles,Bayview-Hunters Point,4618 3rd St,(415) 643-4983,585
+The Social Study,Western Addition,1795 Geary Blvd,(415) 292-7417,417
+Pancho Villa Taqueria,Mission,3071 16th St,(415) 864-8840,2324
+Belle Cora,North Beach/Telegraph Hill,565 Green St,(415) 872-5451,65
+Noon All Day,Potrero Hill,690 Indiana St,(415) 619-3240,48
+Daily Grill,Union Square,347 Geary St,(415) 616-5000,1074
+Mymy,Nob Hill,1500 California St,(415) 800-7466,1485
+Pluto’s,Marina/Cow Hollow,3258 Scott St,(415) 775-8867,653
+Amami,Union Square,430 Geary Blvd,(415) 829-2424,66
+Ananda Fuara,Civic Center,1298 Market St,(415) 621-1994,1000
+ABV,Mission,3174 16th St,(415) 400-4748,518
+Coi,North Beach/Telegraph Hill,373 Broadway,(415) 393-9000,729
+Nara Restaurant & Sake Bar,Lower Haight,518 Haight St,(415) 638-6124,420
+Colibri Mexican Bistro,Union Square,438 Geary St,(415) 440-2737,2021
+Town Hall,Financial District,342 Howard St,(415) 908-3900,1868
+Dinosaurs Vietnamese Sandwiches,Lakeside,2522 Ocean Ave,(415) 334-1421,560
+Hashiri,Union Square,4 Mint Plz,(415) 908-1919,77
+Mission Street Oyster Bar & Seafood Restaurant,Mission,2282 Mission St,(415) 621-6987,493
+The Sycamore,Mission,2140 Mission St,(415) 252-7704,689
+Sunset Reservoir Brewing Company,Outer Sunset,1735 Noriega St,(415) 571-8452,532
+Chisme,Lower Nob Hill,882 Sutter St,(415) 370-7070,219
+Pizzeria Delfina,Pacific Heights,2406 California St,(415) 440-1189,1406
+Marengo On the Alley,Financial District,531 Commercial St,(628) 444-3100,119
+Stuffed,Mission,2788 Mission St,(415) 642-1069,213
+Kama Sushi,SoMa,294 9th St,(415) 800-8287,654
+Hazel Southern Bar & Kitchen,Civic Center,1446 Market St,(415) 964-9644,305
+Tamarind Hall,North Beach/Telegraph Hill,1268 Grant Ave,(415) 872-9980,321
+Pabu,Financial District,101 California St,(415) 668-7228,780
+RAW Sugar Factory,Mission,525 Valencia St,(415) 872-6988,296
+Thirsty Bear Brewing Company,SoMa,661 Howard St,(415) 974-0905,1819
+Cafe de Casa,Russian Hill,2701 Leavenworth St,(415) 345-1055,315
+Vixi Cucina Italiana,Laurel Heights,3611 California St,(415) 842-4921,163
+Super Duper Burgers,SoMa,783 Mission St,(415) 882-1750,1215
+Mangia Tutti Ristorante,Financial District,635 Clay St,(415) 788-2088,375
+Perry’s,Embarcadero,155 Steuart St,(415) 495-6500,689
+Bistro Kazan,Lower Nob Hill,930 Bush St,(415) 872-5932,23
+Petit Crenn,Hayes Valley,609 Hayes St,(415) 864-1744,324
+Arizmendi Bakery,Inner Sunset,1331 9th Ave,(415) 566-3117,1787
+The Flying Falafel,SoMa,1051 Market St,(415) 964-1003,751
+Counter Offer,Mission,800 S Van Ness Ave,(415) 341-0169,27
+Ocean Thai,Lakeside,2545 Ocean Ave,(415) 585-7251,51
+Sorrel,Presidio Heights,3228 Sacramento St,(415) 525-3765,110
+Lucky Pig,Tenderloin,791 O'farrell St,(415) 999-2628,35
+Picnix Bistro,Presidio Heights,3872 Sacramento St,(415) 751-2255,91
+Swamp,Inner Richmond,5423 Geary Blvd,(415) 876-2828,587
+Jasper’s Corner Tap and Kitchen,Tenderloin,401 Taylor St,(415) 775-7979,1077
+Frisco Fried,Bayview-Hunters Point,5176 3rd St,(415) 822-1517,382
+Yuanbao Jiaozi,Outer Sunset,2110 Irving St,(415) 702-6506,116
+jū-ni,NoPa,1335 Fulton St,(415) 655-9924,221
+Waterfront Restaurant,Embarcadero,Pier 7 The Embarcadero,(415) 391-2696,1052
+Art’s Cafe,Inner Sunset,747 Irving St,(415) 665-7440,1030
+Hai Ky Noodles,Tenderloin,707 Ellis St,(415) 771-2577,842
+Heavenly Cafe,Diamond Heights,5214 Diamond Heights Blvd,(415) 206-9755,26
+Dol Ho,Chinatown,808 Pacific Ave,(415) 392-2828,337
+WesBurger ‘N’ More,Mission,2240 Mission St,(415) 745-9371,429
+Craftsman and Wolves - The Den,Bayview-Hunters Point,1598 Yosemite Ave,(415) 423-3337,85
+Walzwerk,Mission,381 S Van Ness Ave,(415) 551-7181,942
+Pizzeria Delfina - San Francisco,Mission,3611 18th St,(415) 437-6800,2212
+Gialina Pizzeria,Glen Park,2842 Diamond St,(415) 239-8500,1071
+Next Level Burger,Potrero Hill,450 Rhode Island St,(415) 829-8485,29
+Grumpy’s American Pub,North Beach/Telegraph Hill,125 Vallejo St,(415) 434-3350,323
+Toyose,Outer Sunset,3814 Noriega St,(415) 731-0232,1448
+Elephant Sushi,Tenderloin,705 Geary St,(415) 374-7186,216
+Howells,Marina/Cow Hollow,2373 Chestnut St,(415) 814-2150,26
+Calibur,West Portal,68 W Portal Ave,(415) 742-4931,311
+Ploy II,The Haight,1770 Haight St,(415) 387-9224,652
+Local Tap,Mission Bay,600 3rd St,(415) 814-2257,159
+Yummy Dumpling,Inner Sunset,1708 Irving St,(415) 753-9308,88
+Crepevine Restaurant,Inner Sunset,624 Irving St,(415) 681-5858,1481
+Corridor Cafe,Civic Center,100 Van Ness Ave,(415) 834-5684,84
+Amitis Café,NoPa,800 Masonic Ave,(415) 563-2828,131
+Bartlett Hall,Union Square,242 O'Farrell St,(415) 433-4332,741
+Red Dog Restaurant & Bar,SoMa,303 2nd St,(415) 692-0211,445
+Orson’s Belly,Outer Richmond,1737 Balboa St,(415) 340-3967,101
+The Perennial,SoMa,59 9th St,(415) 500-7788,207
+Sushi Bistro,Inner Richmond,431 Balboa St,(415) 933-7100,1476
+Urban Putt,Mission,1096 S Van Ness Ave,(415) 341-1080,1182
+Souvla,Mission,758 Valencia St,(415) 400-5458,232
+Mission Bowling Club,Mission,3176 17th St,(415) 863-2695,569
+Leatherneck Steakhouse,Union Square,609 Sutter St,(415) 673-6672,275
+Brazen Head,Marina/Cow Hollow,3166 Buchanan St,(415) 610-7054,644
+Nomica,Castro,2223 Market St,(415) 655-3280,222
+Osteria,Presidio Heights,3277 Sacramento St,(415) 771-5030,242
+Zaytoon Mediterranean,NoPa,607 Divisadero St,(415) 674-4115,42
+My Tofu House,Inner Richmond,4627 Geary Blvd,(415) 750-1818,1585
+Asiento,Mission,2730 21st St,(415) 829-3375,327
+Spiazzo Ristorante,West Portal,33 W Portal Ave,(415) 664-9511,587
+Holy Kitchen,Noe Valley,4166 24th St,(415) 648-4416,219
+Pineapple Bistro & Bar,Lower Nob Hill,580 Geary St,(415) 441-2700,43
+Curry Leaf,Russian Hill,943 Columbus Ave,(415) 440-4293,508
+Aux Delices Vietnamese Restaurant,Russian Hill,2327 Polk St,(415) 928-4977,697
+Gaspar Brasserie,Financial District,185 Sutter St,(415) 576-8800,352
+Nabe,Marina/Cow Hollow,2151 Lombard St,(415) 447-6199,142
+Chez Marius,Noe Valley,4063 24th St,(415) 757-0947,79
+Tara Indian Cuisine,Castro,2217 Market St,(415) 861-6655,260
+New Lun Ting Cafe,Chinatown,670 Jackson St,(415) 362-5667,293
+People’s Bistro,The Haight,1419 Haight St,(415) 553-8842,99
+Cultivar San Francisco,Marina/Cow Hollow,2379 Chestnut St,(415) 962-4200,58
+Hawker Fare,Mission,680 Valencia St,(415) 400-5699,403
+California Shellfish Company,Fisherman's Wharf,420 Jefferson St,(415) 775-9241,3
+Bistro Gambrinus,NoPa,1813 Fulton St,(415) 221-7777,286
+La Mediterranee,Duboce Triangle,288 Noe St,(415) 431-7210,545
+Bernal Star,Bernal Heights,410 Cortland Ave,(415) 695-8777,245
+Piperade,North Beach/Telegraph Hill,1015 Battery St,(415) 391-2555,832
+Paparikas,Financial District,645 Clay St,(415) 398-2338,75
+Redford,Tenderloin,673 Geary St,(415) 563-8192,420
+Foxsister,Mission,3161 24th St,(415) 829-7814,170
+Casa De La Condesa Restaurant,Mission,2763 Mission St,(415) 829-3300,16
+The New Spot On Polk,Russian Hill,2401 Polk St,(415) 913-7775,294
+Om Indian Cuisine,The Haight,1668 Haight St,(415) 525-3705,241
+Orenchi Beyond,Mission,174 Valencia St,(415) 431-3971,514
+Tawla,Mission,206 Valencia St,(415) 814-2704,308
+Coco’s Ramen,Bernal Heights,3319 Mission St,(415) 648-7722,396
+Jake’s Steaks,Marina/Cow Hollow,3301 Buchanan St,(415) 922-2211,612
+Kazan,Mission,2809 24th St,(415) 282-2001,327
+Picnic on Third,South Beach,493 3rd St,(415) 500-2569,214
+21 Taste House,Ingleside,1109 Ocean Ave,(415) 205-7984,200
+Kebab King,Alamo Square,1109 Fillmore St,(415) 674-1301,185
+Chloe’s Cafe,Noe Valley,1399 Church St,(415) 648-4116,918
+Salt House,Financial District,545 Mission St,(415) 543-8900,1666
+Mi Lindo Peru,Bernal Heights,3226 Mission St,(415) 642-4897,695
+SF Kebab,Mission Bay,550 16th St,(415) 255-2262,202
+The Cheese Steak Shop,Lower Pacific Heights,1716 Divisadero St,(415) 346-3712,843
+Wise Sons Bagel & Coffee,Hayes Valley,537 Octavia St,(415) 787-3354,58
+Kaiju Cooks,Inner Richmond,1650 Balboa St,(415) 221-6288,63
+Cafe Reverie,Cole Valley,848 Cole St,(415) 242-0200,524
+Outer Orbit,Bernal Heights,3215 Mission St,(415) 574-6166,6
+Heirloom Cafe,Mission,2500 Folsom St,(415) 821-2500,468
+El Castillito,Duboce Triangle,136 Church St,(415) 621-3428,791
+Kitava,Mission,2011 Mission St,(415) 780-1661,162
+St Francis Fountain,Mission,2801 24th St,(415) 826-4210,1117
+Chowders,Fisherman's Wharf,Pier 39,(415) 391-4737,729
+Roam Artisan Burgers,Marina/Cow Hollow,1785 Union St,(415) 440-7626,1472
+Terra Cotta Warrior,Outer Sunset,2555 Judah St,(415) 681-3288,425
+Green Chile Kitchen,NoPa,1801 Mcallister St,(415) 440-9411,1232
+Fondue Chinoise,North Beach/Telegraph Hill,430 Broadway St,(415) 217-8888,26
+Roka Akor - San Francisco,Financial District,801 Montgomery St,(415) 362-8887,1065
+Jenny’s Burgers,Inner Sunset,1233 9th Ave,(415) 753-1453,541
+Fly Bar,Alamo Square,762 Divisadero St,(415) 780-1630,729
+AltoVino,Nob Hill,1358 Mason St,(415) 834-5766,34
+Atlas Tap Room,Financial District,606 Mission St,(628) 222-6291,137
+Zazang Korean Noodles,Lower Pacific Heights,2340 Geary Blvd,(415) 447-0655,451
+Whitechapel SF,Tenderloin,600 Polk St,(415) 292-5800,379
+Grumpy Cafe,Bayview-Hunters Point,66 Dorman Ave,(415) 285-2461,21
+Radio Africa Kitchen,Bayview-Hunters Point,4800 3rd St,(415) 826-9660,310
+Dirty Habit,Union Square,12 4th St,(415) 348-1555,517
+Fang,Financial District,660 Howard St,(415) 777-8568,1431
+Takara Sushi,Castro,4243 18th St,(415) 626-7864,290
+Parker Potrero,Potrero Hill,1399 18th St,(415) 829-3796,96
+The Boardroom,Russian Hill,1600 Powell St,(415) 982-8898,404
+Acquolina,North Beach/Telegraph Hill,1600 Stockton St,(415) 781-0331,347
+CHICA,North Beach/Telegraph Hill,120 Green St,(415) 757-0510,48
+The Brixton,Marina/Cow Hollow,2140 Union St,(415) 409-1114,776
+Blue Barn Gourmet,Marina/Cow Hollow,2105 Chestnut St,(415) 441-3232,819
+Tēo Restaurant & Bar,SoMa,1111 Mission St,(415) 626-8366,252
+Rumors,SoMa,398 7th St,(415) 553-6169,244
+Thai Nghiep Ky Mi Gia,Outer Sunset,1427 Noriega St,(415) 682-8528,320
+Eat Americana,Outer Richmond,3532 Balboa St,(415) 387-2893,202
+Il Borgo,Hayes Valley,500 Fell St,(415) 255-9108,618
+The Argentum Project,SoMa,47 6th St,(415) 944-1117,18
+Tuba Express Mediterranean Kebab & Gyro,Nob Hill,1550 California St,(415) 563-4043,123
+SOMA Eats,Financial District,186 2nd St,(415) 543-7662,411
+Manitas Cafe,NoPa,2078 Hayes St,(415) 213-5566,73
+Stoner’s,Tenderloin,752 Van Ness Ave,(415) 712-9335,60
+Spinnerie,Nob Hill,1401 Polk St,(415) 345-1999,434
+Piccolo Forno,Russian Hill,725 Columbus Ave,(415) 757-0087,393
+Belga,Marina/Cow Hollow,2000 Union St,(415) 872-7350,390
+Crepes A Go Go,SoMa,350 11th St,(415) 503-1294,558
+Blue Barn Gourmet,Russian Hill,2237 Polk St,(415) 655-9438,457
+An Chi,Outer Mission,4683 Mission St,(415) 333-9997,141
+Poke Delish,Financial District,708 Kearny St,(628) 777-6772,216
+Lunchpad,Hayes Valley,581 Hayes St,(415) 522-6647,263
+Homage,Financial District,88 Hardie Pl,(415) 800-8741,223
+Urban Ritual,Hayes Valley,488 Fell St,(415) 590-2873,168
+Hong Kong Lounge II,Laurel Heights,3300 Geary Blvd,(415) 668-8802,858
+Win Garden,Glen Park,2794 Diamond St,(415) 333-1331,248
+Kam Po Kitchen,Nob Hill,801 Broadway,(415) 982-3516,398
+Mela Tandoori Kitchen,Civic Center,536 Golden Gate Ave,(415) 969-8087,514
+Hazel’s Kitchen,Potrero Hill,1319 18th St,(415) 647-7941,327
+Eats By E,SoMa,687 Minna St,(510) 755-5055,23
+Del Popolo,Lower Nob Hill,855 Bush St,(415) 589-7940,324
+Violet’s,Outer Richmond,2301 Clement St,(415) 682-4861,49
+KUSAKABE,Financial District,584 Washington St,(415) 757-0155,745
+Catch,Duboce Triangle,2362 Market St,(415) 431-5000,862
+Nabe,Inner Sunset,1325 9th Ave,(415) 731-2658,475
+Ginza Sushi & Sake,The Haight,1793 Haight St,(415) 742-0552,370
+The Spot Lounge,Parkside,2325 Taraval St,(415) 564-4464,537
+Pakwan Restaurant - 16th Street,Mission,3180-82 16th St,(415) 255-2440,1621
+Yan’s Kitchen,Financial District,57 Columbus Ave,(415) 989-8820,466
+Ayola,Financial District,118 New Montgomery St,(415) 348-0808,667
+Zzan,Lower Nob Hill,643 Post St,(415) 872-9977,191
+La Corneta Taqueria,Glen Park,2834 Diamond St,(415) 469-8757,1025
+Istanbul Modern SF,Russian Hill,1096 Union St,(845) 372-3038,78
+Carbon Grill,Inner Richmond,852 Clement St,(415) 753-9966,397
+The Pork Exchange,Tenderloin,807 Ellis St,(415) 932-6931,82
+Shabu House,Lakeside,2608 Ocean Ave,(415) 586-8800,456
+Bar Agricole,SoMa,355 11th St,(415) 355-9400,1029
+Native Burger,Laurel Heights,3420 Geary Blvd,(415) 682-4197,121
+Sasaki,Mission,2400 Harrison St,(415) 828-1912,58
+Wako Japanese Restaurant,Inner Richmond,211 Clement St,(415) 682-4875,452
+Don Pistos Tequila Bar,Marina/Cow Hollow,2030 Lombard St,(415) 400-4522,117
+Pho Luen Fat,Visitacion Valley,110 Leland Ave,(415) 585-1167,99
+Papalote Mexican Grill,Mission,3409 24th St,(415) 970-8815,2124
+IPOT,Inner Sunset,1420 Irving St,(628) 400-5970,711
+Onigilly,Financial District,4 Embarcadero Ctr,(415) 956-2075,235
+Alimento,North Beach/Telegraph Hill,507 Columbus Ave,(415) 296-9463,585
+Little Nepal,Bernal Heights,925 Cortland Ave,(415) 643-3881,423
+Saffron 685,Mission Bay,685 Townsend St,(415) 863-2285,470
+Scala’s Bistro,Union Square,432 Powell St,(415) 395-8555,1230
+Sunflower Authentic Vietnamese Restaurant,Mission,3111 16th St,(415) 626-5023,1123
+Tacko,Marina/Cow Hollow,3115 Fillmore St,(415) 796-3534,661
+La Fina Estampa,Lower Nob Hill,1407 Bush St,(415) 345-1685,217
+Leo’s Oyster Bar,Financial District,568 Sacramento St,(415) 872-9982,275
+Little Star Pizza,Mission,400 Valencia St,(415) 551-7827,1936
+Almanac Taproom,Mission,2704 24th St,(415) 932-6531,189
+Helmand Palace,Russian Hill,2424 Van Ness Ave,(415) 345-0072,755
+Tasty Pot,Inner Richmond,815 Clement St,(415) 666-3888,355
+Um Ma Son,Outer Richmond,5850 Geary Blvd,(415) 831-8662,356
+Doma,Bernal Heights,433 Precita Ave,(415) 648-4417,57
+Credo,Financial District,360 Pine St,(415) 693-0360,763
+Kan Ramen,Chinatown,229 Columbus Ave,(415) 800-7795,108
+My Father’s Kitchen,Lower Pacific Heights,1655 Divisadero St,(415) 829-2610,403
+Okkon Japanese Street Food,Mission,82 14th St,(510) 590-0482,13
+Dabba,Financial District,71 Stevenson St,(415) 236-3984,260
+Sweet Lime Thai Cuisine,Lower Pacific Heights,2100 Sutter St,(415) 674-7515,425
+El Burrito Express,Lower Pacific Heights,1812 Divisadero St,(415) 776-4246,661
+Rin’s Thai Restaurant,Noe Valley,4301 24th St,(415) 821-4776,324
+King Of Thai Noodle House,Union Square,184 O'Farrell St,(415) 677-9991,1706
+Last Drop Tavern,Union Square,550 Powell St,(415) 992-9459,334
+ROOH,South Beach,333 Brannan St,(415) 525-4174,388
+Marcello’s Pizza,Castro,420 Castro St,(415) 863-3900,657
+Cala,Civic Center,149 Fell St,(415) 660-7701,344
+Sushi Toni,Union Square,733 Bush St,(415) 986-8664,581
+Cool Cravings,Lower Pacific Heights,1635 Divisadero St,(415) 771-4900,98
+Momo’s,South Beach,760 2nd St,(415) 227-8660,828
+707 Sutter,Lower Nob Hill,707 Sutter St,(415) 346-7979,555
+Local Diner,Civic Center,1244 Market St,(415) 252-0247,31
+Mission Cheese,Mission,736 Valencia St,(415) 553-8667,533
+Fino Ristorante & Bar,Lower Nob Hill,624 Post St,(415) 928-2080,1039
+Fueling Station,Russian Hill,2436 Polk St,(415) 757-0464,106
+Bandit,Tenderloin,683 Geary St,(415) 658-7780,243
+Toma,Marina/Cow Hollow,3318 Steiner St,(415) 921-8662,276
+LaLe,Inner Sunset,731 Irving St,(415) 566-8814,340
+Split,Russian Hill,2300 Polk St,(415) 296-8009,150
+Pokihub,Westwood Park,1130 Ocean Ave,(415) 991-9283,184
+Ideale,North Beach/Telegraph Hill,1309 Grant Ave,(415) 391-4129,685
+Crostini & Java,Lower Nob Hill,899 Hyde St,(415) 872-9226,57
+Yin Du Wonton Noodle,Chinatown,648 Pacific Ave,(415) 834-9388,334
+Jersey,Financial District,145 2nd St,(415) 912-1502,372
+Lai Hong Lounge,Russian Hill,1416 Powell St,(415) 397-2290,722
+Brick & Beam,Fisherman's Wharf,555 N Point St,(415) 202-3612,159
+Yonkers Cafe,Outer Sunset,3815 Noriega St,(415) 379-4459,144
+Baiano Pizzeria,Hayes Valley,100 Gough St,(415) 621-1401,160
+Thai Time Restaurant,Inner Richmond,315 8th Ave,(415) 831-3663,756
+Marnee Thai,Outer Sunset,2225 Irving St,(415) 665-9500,1636
+McCormick & Kuleto’s Seafood & Steaks,Russian Hill,900 N Point St,(415) 929-1730,1095
+Garçon,Mission,1101 Valencia St,(415) 401-8959,784
+Mission Pie,Mission,2901 Mission St,(415) 282-1500,1675
+Smokin’ Warehouse Barbecue - Sacramento Street,Presidio Heights,3336 Sacramento St,(415) 440-0088,37
